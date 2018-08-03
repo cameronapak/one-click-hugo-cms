@@ -1,10 +1,6 @@
 ---
-title: Hey!
+title: Learn Your Strengths
 date: '2018-08-02T20:43:17-05:00'
-description: This is my first blog. It's really cool. It even has markdown.
+description: ' '
 ---
-![Hehe](/img/lc-placeholder.png)
-
-This is my blog. It looks really cool. 
-
-`var canWriteCode = true;`
+<iframe src="https://quizlet.com/2033866/learn/embed" height="500" width="100%" style="border:0"></iframe>
